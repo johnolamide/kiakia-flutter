@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345365972947",
+    "project_id": "kia-kia-rgnp9h",
+    "storage_bucket": "kia-kia-rgnp9h.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345365972947:android:5da234de9265d5444e5126",
+        "android_client_info": {
+          "package_name": "com.wolialajologistics.kiakia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMI2Aqdogt8xTsp78uQ1Tvlz_DWIlXw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
